@@ -5,6 +5,5 @@
 <End of Version>
 
 <Version: 1.02>
-/data/Map001.json https://raw.githubusercontent.com/Umupafa/classique/main/Map001.json
-/data/MapInfos.json https://raw.githubusercontent.com/Umupafa/classique/main/MapInfos.json
+/data/mmm.rar https://raw.githubusercontent.com/Umupafa/classique/edit/main/Master.txt
 <End of Version>
