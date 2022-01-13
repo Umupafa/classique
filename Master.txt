@@ -1,4 +1,5 @@
 
 <Version: 1.01>
+/data/Map001.json
 /data/MapInfos.json
 <End of Version>
